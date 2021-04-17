@@ -1,0 +1,11 @@
+{
+    "LLLla%!%nguage" : "Python",
+    "FFframework" : "Flask",
+    "WWwe%!#bsite" : "Scotch",
+    "vVVersion$!@_info" : {
+        "PPp@!$ython" : "3.9.0",
+        "fFFla#$%sk" : "1.1.2"
+    },
+    "exXXam$!@ples" : ["query", "form", "json"],
+    "booOO)*lean_test" : true
+}
