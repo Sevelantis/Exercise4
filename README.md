@@ -1,3 +1,8 @@
+### Credentials
+Simple Flask Docker cloned from https://github.com/nikos/python3-alpine-flask-docker
+
+Repository created for educational purposes.
+
 # python3-alpine-flask-docker [![Build Status](https://travis-ci.org/nikos/python3-alpine-flask-docker.svg?branch=master)](https://travis-ci.org/nikos/python3-alpine-flask-docker)  [![Image Info](https://images.microbadger.com/badges/image/nikos/alpine-python3-flask.svg)](https://microbadger.com/images/nikos/alpine-python3-flask)
 
 Sample Docker container for a Python 3 Flask based application with minimal footprint.
