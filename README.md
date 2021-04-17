@@ -3,7 +3,7 @@ Simple Flask Docker cloned from https://github.com/nikos/python3-alpine-flask-do
 
 Repository created for educational purposes.
 
-# how to run
+# how to run on Linux
 docker needs to be installed
 ```
 git clone https://github.com/Sevelantis/Exercise4
